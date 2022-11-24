@@ -1,0 +1,5 @@
+Lo que aprendimos en esta aula:
+
+A validar fechas en nuestro formulario.
+
+A utilizar expresiones regulares para mejorar la validación de nuestro formulario.

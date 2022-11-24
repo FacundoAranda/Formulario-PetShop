@@ -1,0 +1,6 @@
+Lo que aprendimos en esta aula:
+
+A instalar y utilizar el plugin Liveserver.
+Como descargar y correr el Browser-Sync.
+Como enseñar el mensaje de error directamente en el HTML.
+Como customizar los mensajes de error de validación.
